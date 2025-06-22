@@ -211,3 +211,4 @@ Obtener Ganancias
             <div class="bet-card bg-slate-800/50 rounded-xl overflow-hidden shadow-lg transition duration-300 hover:shadow-2xl">
                 <div class="p-6">
                     <div class="flex justify-between items-center mb-4">
+![Screenshot_2025-06-21-22-36-16-046_com whatsapp](https://github.com/user-attachments/assets/c73d2bf6-5e1b-4eb2-8e31-0658e8026437)
